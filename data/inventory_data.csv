@@ -1,0 +1,21 @@
+product_id,product_name,category,current_stock,reorder_level,reorder_quantity,unit_cost,unit_price,supplier,last_restocked,warehouse_location,stock_status
+P001,Rice (5kg),Groceries,120,100,300,85,120,AgriSupply Co.,2024-12-01,Aisle A1,Adequate
+P002,Wheat Flour (10kg),Groceries,45,60,200,65,95,AgriSupply Co.,2024-11-20,Aisle A2,Low Stock
+P003,Sunflower Oil (1L),Groceries,200,80,250,78,110,OilMart Traders,2024-12-05,Aisle A3,Adequate
+P004,Sugar (1kg),Groceries,95,70,300,30,45,SweetGoods Ltd.,2024-11-28,Aisle A4,Adequate
+P005,Toothpaste,Personal Care,80,50,150,42,65,CareLife Corp.,2024-12-01,Aisle B1,Adequate
+P006,Shampoo (200ml),Personal Care,55,40,120,80,120,CareLife Corp.,2024-11-25,Aisle B2,Adequate
+P007,Detergent Powder,Household,30,50,180,110,180,CleanHome Pvt.,2024-11-15,Aisle C1,Low Stock
+P008,Biscuits (Family Pack),Snacks,180,100,300,35,55,SnackWorld Ltd.,2024-12-03,Aisle D1,Adequate
+P009,Cold Drink (2L),Beverages,250,150,400,38,60,BevCo Distributors,2024-12-02,Aisle E1,Adequate
+P010,Milk (1L),Dairy,90,80,200,15,22,FreshDairy Farms,2024-12-08,Fridge F1,Adequate
+P011,Soap Bar,Personal Care,140,60,200,18,30,CareLife Corp.,2024-11-30,Aisle B3,Adequate
+P012,Noodles (Pack),Snacks,220,80,250,9,15,SnackWorld Ltd.,2024-12-01,Aisle D2,Adequate
+P013,Butter (100g),Dairy,25,40,100,38,55,FreshDairy Farms,2024-11-10,Fridge F2,Low Stock
+P014,Chips (Large),Snacks,160,90,250,25,40,SnackWorld Ltd.,2024-12-04,Aisle D3,Adequate
+P015,Green Tea (Box),Beverages,60,30,100,58,90,BevCo Distributors,2024-11-22,Aisle E2,Adequate
+P016,Cornflakes (500g),Breakfast,15,40,120,45,75,CerealBrand Inc.,2024-10-30,Aisle A5,Critical Low
+P017,Instant Coffee (100g),Beverages,18,35,100,70,110,BevCo Distributors,2024-11-01,Aisle E3,Critical Low
+P018,Cooking Salt (1kg),Groceries,300,100,300,8,15,AgriSupply Co.,2024-11-20,Aisle A6,Overstocked
+P019,Tomato Ketchup,Condiments,12,30,100,28,45,FoodBrand Co.,2024-10-25,Aisle G1,Critical Low
+P020,Basmati Rice (5kg),Groceries,8,50,200,140,200,AgriSupply Co.,2024-10-15,Aisle A7,Out of Stock
