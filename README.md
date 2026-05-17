@@ -1,5 +1,4 @@
 # Local Store Sales & Inventory Analysis
-### Data Analysis Resume Project | 2024
 
 ---
 
